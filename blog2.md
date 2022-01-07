@@ -1,4 +1,5 @@
 ## Blog 2!
+### Working on your repo, in VS Code.
 
 Created on my local machine, using VS Code.
 
